@@ -1,5 +1,7 @@
 # Wallet DApp (ETHER APP)
 
+doc: https://docs.google.com/document/d/1e9vEPr3poWCs_PepmFuvkUm2rFdAHc9vS7dKrdqLie0/edit?usp=sharing
+
 This is a decentralized application (DApp) that allows users to connect their MetaMask wallet, check their balance, and perform ERC20 token transactions on the blockchain.
 
 ## Features
