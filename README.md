@@ -1,1 +1,2 @@
-# ether-app
+# React + TypeScript + Vite
+
